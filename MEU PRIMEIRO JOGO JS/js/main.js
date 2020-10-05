@@ -251,7 +251,7 @@ function start() { // Inicio da funçao start()
         // Disparo com o inimigo1
         if (colisao3.length > 0) {
             pontos = pontos + 100;
-            velocidade = velocidade + 0.2;
+            velocidade = velocidade + 0.1;
 
             inimigo1X = parseInt($("#inimigo1").css("left"));
             inimigo1Y = parseInt($("#inimigo1").css("top"));
@@ -502,7 +502,7 @@ function start() { // Inicio da funçao start()
 
         $("#fundoGame").append("<div id='fim'></div>");
 
-        $("#fim").html("<h1> Cuide melhor do seu bb8! :( </h1><p>Sua pontuaçao foi: " + pontos + "</p><p>Recorde: " + maiorPontuacao + "</p>" + "<div id='reinicia' onClick=reiniciaJogo()><h3>Jogar Novamente</h3></div>");
+        $("#fim").html("<h1> Cuide melhor do seu bb8! :( </h1><p>Sua pontuaçao foi: " + pontos + "</p><p>Recorde: " + maiorPontuacao + "</p><p>Lembre-se de se aproximar do bb8 para salva-lo!!</p>" + "<div id='reinicia' onClick=reiniciaJogo()><h3>Jogar Novamente</h3></div>");
 
     } // Fim da funcao gameOver();
 
