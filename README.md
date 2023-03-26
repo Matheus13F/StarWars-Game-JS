@@ -16,7 +16,6 @@
 - [Getting Started](#runner-getting-started)
 - [FAQ](#postbox-faq)
 - [Found a bug? Missing a specific feature?](#bug-issues)
-- [Contributing](#tada-contributing)
 - [License](#closed_book-license)
 
 <br />
@@ -63,10 +62,6 @@ Use the following command to start the application in a development environment:
 # :bug: Issues
 
 Feel free to **file a new issue** with a respective title and description on the [JS Star Wars Game](https://github.com/matheus13f/StarWars-Game-JS/issues) repository. If you already found a solution to your problem, **i would love to review your pull request**! Have a look at our [contribution guidelines](https://github.com/matheus13f/StarWars-Game-JS/blob/master/CONTRIBUTING.md) to find out about the coding standards.
-
-# :tada: Contributing
-
-Check out the [contributing](https://github.com/matheus13f/Workout_NextJs/blob/master/CONTRIBUTING.md) page to see the best places to file issues, start discussions and begin contributing.
 
 # :closed_book: License
 
