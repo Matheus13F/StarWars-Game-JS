@@ -1,6 +1,6 @@
-# UI Clone - Netflix
+# Star Wars Game
 
-> Personal Project to study | UI Clone Netflix.
+> Personal Project to study | Star Wars Game
 
 [![Author](https://img.shields.io/badge/author-matheus13f-ff9000?style=flat-square)](https://github.com/matheus13f)
 [![Languages](https://img.shields.io/github/languages/count/matheus13f/StarWars-Game-JS?color=%23ff9000&style=flat-square)](#)
